@@ -17,7 +17,7 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Z]]></answer>
     <sortorder><![CDATA[1]]></sortorder>
@@ -26,7 +26,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[N]]></answer>
     <sortorder><![CDATA[2]]></sortorder>
@@ -35,7 +35,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[TT]]></answer>
     <sortorder><![CDATA[3]]></sortorder>
@@ -44,7 +44,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[HO]]></answer>
     <sortorder><![CDATA[4]]></sortorder>
@@ -53,7 +53,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A5]]></code>
     <answer><![CDATA[S]]></answer>
     <sortorder><![CDATA[5]]></sortorder>
@@ -62,7 +62,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A6]]></code>
     <answer><![CDATA[O]]></answer>
     <sortorder><![CDATA[6]]></sortorder>
@@ -71,7 +71,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A7]]></code>
     <answer><![CDATA[Garden]]></answer>
     <sortorder><![CDATA[7]]></sortorder>
@@ -80,7 +80,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <code><![CDATA[A8]]></code>
     <answer><![CDATA[Other]]></answer>
     <sortorder><![CDATA[8]]></sortorder>
@@ -102,37 +102,37 @@
   </fields>
   <rows>
    <row>
-    <cid><![CDATA[33]]></cid>
-    <qid><![CDATA[14]]></qid>
-    <cqid><![CDATA[39]]></cqid>
-    <cfieldname><![CDATA[189638X8X39SUSIC]]></cfieldname>
+    <cid><![CDATA[1]]></cid>
+    <qid><![CDATA[2]]></qid>
+    <cqid><![CDATA[10]]></cqid>
+    <cfieldname><![CDATA[189638X5X10SUSIC]]></cfieldname>
     <method><![CDATA[!=]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[4]]></scenario>
    </row>
    <row>
-    <cid><![CDATA[32]]></cid>
-    <qid><![CDATA[14]]></qid>
-    <cqid><![CDATA[39]]></cqid>
-    <cfieldname><![CDATA[189638X8X39SMINI]]></cfieldname>
+    <cid><![CDATA[2]]></cid>
+    <qid><![CDATA[2]]></qid>
+    <cqid><![CDATA[10]]></cqid>
+    <cfieldname><![CDATA[189638X5X10SMINI]]></cfieldname>
     <method><![CDATA[!=]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[3]]></scenario>
    </row>
    <row>
-    <cid><![CDATA[30]]></cid>
-    <qid><![CDATA[14]]></qid>
-    <cqid><![CDATA[39]]></cqid>
-    <cfieldname><![CDATA[189638X8X39RS485]]></cfieldname>
+    <cid><![CDATA[3]]></cid>
+    <qid><![CDATA[2]]></qid>
+    <cqid><![CDATA[10]]></cqid>
+    <cfieldname><![CDATA[189638X5X10RS485]]></cfieldname>
     <method><![CDATA[!=]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[1]]></scenario>
    </row>
    <row>
-    <cid><![CDATA[31]]></cid>
-    <qid><![CDATA[14]]></qid>
-    <cqid><![CDATA[39]]></cqid>
-    <cfieldname><![CDATA[189638X8X39IOMBX]]></cfieldname>
+    <cid><![CDATA[4]]></cid>
+    <qid><![CDATA[2]]></qid>
+    <cqid><![CDATA[10]]></cqid>
+    <cfieldname><![CDATA[189638X5X10IOMBX]]></cfieldname>
     <method><![CDATA[!=]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[2]]></scenario>
@@ -152,16 +152,6 @@
   </fields>
   <rows>
    <row>
-    <gid><![CDATA[1]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Hardware]]></group_name>
-    <group_order><![CDATA[8]]></group_order>
-    <description/>
-    <language><![CDATA[en]]></language>
-    <randomization_group/>
-    <grelevance/>
-   </row>
-   <row>
     <gid><![CDATA[2]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Software]]></group_name>
@@ -172,7 +162,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[3]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Layout Control Devices]]></group_name>
     <group_order><![CDATA[7]]></group_order>
@@ -182,7 +172,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Layout Information]]></group_name>
     <group_order><![CDATA[6]]></group_order>
@@ -192,7 +182,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[5]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Interfaces]]></group_name>
     <group_order><![CDATA[0]]></group_order>
@@ -202,7 +192,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[6]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Input / Output]]></group_name>
     <group_order><![CDATA[1]]></group_order>
@@ -212,7 +202,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[10]]></gid>
+    <gid><![CDATA[7]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Cab / Block Control]]></group_name>
     <group_order><![CDATA[2]]></group_order>
@@ -222,7 +212,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[8]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Signaling and Detection]]></group_name>
     <group_order><![CDATA[3]]></group_order>
@@ -232,7 +222,7 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[9]]></gid>
     <sid><![CDATA[189638]]></sid>
     <group_name><![CDATA[Host Computer]]></group_name>
     <group_order><![CDATA[4]]></group_order>
@@ -264,10 +254,10 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[1]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[IO]]></title>
     <question><![CDATA[<p>
@@ -306,10 +296,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[14]]></qid>
+    <qid><![CDATA[2]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[M]]></type>
     <title><![CDATA[SerialSpeed]]></title>
     <question><![CDATA[Serial Line Speed (Bits Per Second BPS, if serial connected)]]></question>
@@ -321,10 +311,10 @@
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[(((is_empty(189638X8X39RS485.NAOK) || (189638X8X39RS485.NAOK != "0")))) or (((is_empty(189638X8X39IOMBX.NAOK) || (189638X8X39IOMBX.NAOK != "0")))) or (((is_empty(189638X8X39SMINI.NAOK) || (189638X8X39SMINI.NAOK != "0")))) or (((is_empty(189638X8X39SUSIC.NAOK) || (189638X8X39SUSIC.NAOK != "0"))))]]></relevance>
+    <relevance><![CDATA[(((is_empty(189638X5X10RS485.NAOK) || (189638X5X10RS485.NAOK != "0")))) or (((is_empty(189638X5X10IOMBX.NAOK) || (189638X5X10IOMBX.NAOK != "0")))) or (((is_empty(189638X5X10SMINI.NAOK) || (189638X5X10SMINI.NAOK != "0")))) or (((is_empty(189638X5X10SUSIC.NAOK) || (189638X5X10SUSIC.NAOK != "0"))))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[15]]></qid>
+    <qid><![CDATA[3]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[2]]></gid>
@@ -342,10 +332,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[21]]></qid>
+    <qid><![CDATA[4]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[layoutname]]></title>
     <question><![CDATA[Name of your layout]]></question>
@@ -360,10 +350,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[22]]></qid>
+    <qid><![CDATA[5]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[LayoutOwner]]></title>
     <question><![CDATA[What is your name]]></question>
@@ -378,10 +368,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
+    <qid><![CDATA[6]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <type><![CDATA[!]]></type>
     <title><![CDATA[Scale]]></title>
     <question/>
@@ -396,10 +386,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[24]]></qid>
+    <qid><![CDATA[7]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[Roadname]]></title>
     <question/>
@@ -414,10 +404,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[25]]></qid>
+    <qid><![CDATA[8]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <gid><![CDATA[4]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[Era]]></title>
     <question/>
@@ -432,10 +422,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[33]]></qid>
+    <qid><![CDATA[9]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[8]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[Occupancy]]></title>
     <question><![CDATA[How many occupancy detector cards and detector motherboards do you own?]]></question>
@@ -450,10 +440,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[39]]></qid>
+    <qid><![CDATA[10]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[SerialSolutions]]></title>
     <question><![CDATA[Please indicate how many of each serial interface card you own.]]></question>
@@ -468,10 +458,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[41]]></qid>
+    <qid><![CDATA[11]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[ParallelSolutions]]></title>
     <question/>
@@ -486,10 +476,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[44]]></qid>
+    <qid><![CDATA[12]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[8]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[SwitchAndSignal]]></title>
     <question/>
@@ -504,10 +494,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[51]]></qid>
+    <qid><![CDATA[13]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
+    <gid><![CDATA[7]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[CabControl]]></title>
     <question/>
@@ -522,10 +512,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[58]]></qid>
+    <qid><![CDATA[14]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[Converter]]></title>
     <question/>
@@ -540,10 +530,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[68]]></qid>
+    <qid><![CDATA[15]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[OS]]></title>
     <question/>
@@ -558,10 +548,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[76]]></qid>
+    <qid><![CDATA[16]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[3]]></gid>
     <type><![CDATA[;]]></type>
     <title><![CDATA[Turnouts]]></title>
     <question/>
@@ -576,10 +566,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[83]]></qid>
+    <qid><![CDATA[17]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[;]]></type>
     <title><![CDATA[Hardware]]></title>
     <question/>
@@ -616,252 +606,285 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[7]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
+    <qid><![CDATA[18]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[DIN24]]></title>
     <question><![CDATA[DIN24]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[9]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[K]]></type>
-    <title><![CDATA[DOUT24]]></title>
-    <question><![CDATA[DOUT24]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[10]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[K]]></type>
-    <title><![CDATA[DIN32]]></title>
-    <question><![CDATA[DIN32]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[11]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[K]]></type>
-    <title><![CDATA[DOUT32]]></title>
-    <question><![CDATA[DOUT32]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[16]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
-    <type><![CDATA[P]]></type>
-    <title><![CDATA[SW001]]></title>
-    <question><![CDATA[Bruce Chubb - QB 4.5]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[17]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
-    <type><![CDATA[P]]></type>
-    <title><![CDATA[SW002]]></title>
-    <question><![CDATA[Bruce Chubb - Visual Basic]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[18]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
-    <type><![CDATA[P]]></type>
-    <title><![CDATA[SW003]]></title>
-    <question><![CDATA[Bruce Chubb - VB.net]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[19]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
-    <type><![CDATA[P]]></type>
-    <title><![CDATA[SW004]]></title>
-    <question><![CDATA[Custom Code - What Language]]></question>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[DOUT24]]></title>
+    <question><![CDATA[DOUT24]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[20]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
-    <type><![CDATA[P]]></type>
-    <title><![CDATA[SW005]]></title>
-    <question><![CDATA[JMRI - What version]]></question>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[DIN32]]></title>
+    <question><![CDATA[DIN32]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[26]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[115200]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[27]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[57600]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[28]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[38400]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[29]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[28800]]></question>
-    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[30]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
+    <qid><![CDATA[21]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[19200]]></question>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[DOUT32]]></title>
+    <question><![CDATA[DOUT32]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[31]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
+    <qid><![CDATA[22]]></qid>
+    <parent_qid><![CDATA[3]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[9600]]></question>
+    <gid><![CDATA[2]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SW001]]></title>
+    <question><![CDATA[Bruce Chubb - QB 4.5]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[34]]></qid>
-    <parent_qid><![CDATA[33]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[OD]]></question>
-    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[35]]></qid>
-    <parent_qid><![CDATA[33]]></parent_qid>
+    <qid><![CDATA[23]]></qid>
+    <parent_qid><![CDATA[3]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[DCCOD]]></question>
+    <gid><![CDATA[2]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SW002]]></title>
+    <question><![CDATA[Bruce Chubb - Visual Basic]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[36]]></qid>
-    <parent_qid><![CDATA[33]]></parent_qid>
+    <qid><![CDATA[24]]></qid>
+    <parent_qid><![CDATA[3]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[2]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SW003]]></title>
+    <question><![CDATA[Bruce Chubb - VB.net]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[25]]></qid>
+    <parent_qid><![CDATA[3]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[2]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SW004]]></title>
+    <question><![CDATA[Custom Code - What Language]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[26]]></qid>
+    <parent_qid><![CDATA[3]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[2]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SW005]]></title>
+    <question><![CDATA[JMRI - What version]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[27]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[115200]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[28]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[57600]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[29]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[38400]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[30]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[28800]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[31]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[19200]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[32]]></qid>
+    <parent_qid><![CDATA[2]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[9600]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[33]]></qid>
+    <parent_qid><![CDATA[9]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[OD]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[34]]></qid>
+    <parent_qid><![CDATA[9]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[DCCOD]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[35]]></qid>
+    <parent_qid><![CDATA[9]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[ODMB]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[36]]></qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DOTest]]></title>
+    <question><![CDATA[DOTEST]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -869,293 +892,494 @@
    </row>
    <row>
     <qid><![CDATA[37]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[DOTest]]></title>
-    <question><![CDATA[DOTEST]]></question>
+    <title><![CDATA[Test32]]></title>
+    <question><![CDATA[TEST32]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[38]]></qid>
-    <parent_qid><![CDATA[6]]></parent_qid>
+    <parent_qid><![CDATA[11]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[Test32]]></title>
-    <question><![CDATA[TEST32]]></question>
+    <title><![CDATA[IBEC]]></title>
+    <question><![CDATA[IBEC]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[39]]></qid>
+    <parent_qid><![CDATA[11]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[IOMB]]></title>
+    <question><![CDATA[IOMB]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[40]]></qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SM1]]></title>
+    <question><![CDATA[SM1]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[41]]></qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SM2]]></title>
+    <question><![CDATA[SM2]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[42]]></qid>
-    <parent_qid><![CDATA[41]]></parent_qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[8]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[IBEC]]></title>
-    <question><![CDATA[IBEC]]></question>
+    <title><![CDATA[SMC12]]></title>
+    <question><![CDATA[SMC12]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[43]]></qid>
-    <parent_qid><![CDATA[41]]></parent_qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[8]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[IOMB]]></title>
-    <question><![CDATA[IOMB]]></question>
+    <title><![CDATA[SMC]]></title>
+    <question><![CDATA[SMC]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[44]]></qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SSD]]></title>
+    <question><![CDATA[SSD]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[45]]></qid>
+    <parent_qid><![CDATA[13]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[7]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[CRC]]></title>
+    <question><![CDATA[CRC]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[46]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
+    <parent_qid><![CDATA[13]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[7]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SM1]]></title>
-    <question><![CDATA[SM1]]></question>
+    <title><![CDATA[CMB]]></title>
+    <question><![CDATA[CMB]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[47]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
+    <parent_qid><![CDATA[13]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[7]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SM2]]></title>
-    <question><![CDATA[SM2]]></question>
+    <title><![CDATA[CDC]]></title>
+    <question><![CDATA[CDC]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[48]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
+    <parent_qid><![CDATA[13]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[7]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SMC12]]></title>
-    <question><![CDATA[SMC12]]></question>
+    <title><![CDATA[CCT4]]></title>
+    <question><![CDATA[CCT4]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[49]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
+    <parent_qid><![CDATA[13]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[7]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SMC]]></title>
-    <question><![CDATA[SMC]]></question>
+    <title><![CDATA[PPC]]></title>
+    <question><![CDATA[PPC]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[50]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
+    <parent_qid><![CDATA[14]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SSD]]></title>
-    <question><![CDATA[SSD]]></question>
+    <title><![CDATA[DAC3]]></title>
+    <question><![CDATA[DAC3]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[51]]></qid>
+    <parent_qid><![CDATA[14]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[6]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[ADC3]]></title>
+    <question><![CDATA[ADC3]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[52]]></qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SUSIC]]></title>
+    <question><![CDATA[SUSIC - Super Universal Serial Interface Card]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[53]]></qid>
-    <parent_qid><![CDATA[51]]></parent_qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[CRC]]></title>
-    <question><![CDATA[CRC]]></question>
+    <title><![CDATA[SMINI]]></title>
+    <question><![CDATA[SMINI - Super Mini-node]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[54]]></qid>
-    <parent_qid><![CDATA[51]]></parent_qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[CMB]]></title>
-    <question><![CDATA[CMB]]></question>
+    <title><![CDATA[IOMBX]]></title>
+    <question><![CDATA[IOMBX - Expanded I/O Motherboard (replaces IOMB)]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[55]]></qid>
-    <parent_qid><![CDATA[51]]></parent_qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[CDC]]></title>
-    <question><![CDATA[CDC]]></question>
+    <title><![CDATA[RS485]]></title>
+    <question><![CDATA[RS485 - RS232 to RS485 Converter]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[56]]></qid>
-    <parent_qid><![CDATA[51]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[CCT4]]></title>
-    <question><![CDATA[CCT4]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[57]]></qid>
-    <parent_qid><![CDATA[51]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[10]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[PPC]]></title>
-    <question><![CDATA[PPC]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[59]]></qid>
-    <parent_qid><![CDATA[58]]></parent_qid>
+    <parent_qid><![CDATA[15]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[DAC3]]></title>
-    <question><![CDATA[DAC3]]></question>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[DOS]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[60]]></qid>
-    <parent_qid><![CDATA[58]]></parent_qid>
+    <qid><![CDATA[57]]></qid>
+    <parent_qid><![CDATA[15]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[ADC3]]></title>
-    <question><![CDATA[ADC3]]></question>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Windows]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[64]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
+    <qid><![CDATA[58]]></qid>
+    <parent_qid><![CDATA[15]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SUSIC]]></title>
-    <question><![CDATA[SUSIC - Super Universal Serial Interface Card]]></question>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Apple]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[65]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SMINI]]></title>
-    <question><![CDATA[SMINI - Super Mini-node]]></question>
-    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[66]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
+    <qid><![CDATA[59]]></qid>
+    <parent_qid><![CDATA[15]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[IOMBX]]></title>
-    <question><![CDATA[IOMBX - Expanded I/O Motherboard (replaces IOMB)]]></question>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Unix / Linux]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[67]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
+    <qid><![CDATA[60]]></qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[RS485]]></title>
-    <question><![CDATA[RS485 - RS232 to RS485 Converter]]></question>
+    <title><![CDATA[USIC]]></title>
+    <question><![CDATA[USIC - Universal Serial Interface Card (replaced by SUSIC)]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[61]]></qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[RS422]]></title>
+    <question><![CDATA[RS422 - RS232 to RS422 Converter (replaced by RS485)]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[6]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[69]]></qid>
-    <parent_qid><![CDATA[68]]></parent_qid>
+    <qid><![CDATA[62]]></qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[8]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[RSSD]]></title>
+    <question><![CDATA[RSSD]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[63]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[DOS]]></question>
+    <question><![CDATA[Stall Motor]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[64]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[How Many]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[65]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Twin Coil]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[66]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Servos]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[67]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Manual Throw]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[68]]></qid>
+    <parent_qid><![CDATA[16]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[3]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Vendor / Type]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[69]]></qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[9]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[PC]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -1163,68 +1387,117 @@
    </row>
    <row>
     <qid><![CDATA[70]]></qid>
-    <parent_qid><![CDATA[68]]></parent_qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[9]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Brand]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[71]]></qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Windows]]></question>
+    <question><![CDATA[Apple]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[71]]></qid>
-    <parent_qid><![CDATA[68]]></parent_qid>
+    <qid><![CDATA[72]]></qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Apple]]></question>
+    <question><![CDATA[Other]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[72]]></qid>
-    <parent_qid><![CDATA[68]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Unix / Linux]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
     <qid><![CDATA[73]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[USIC]]></title>
-    <question><![CDATA[USIC - Universal Serial Interface Card (replaced by SUSIC)]]></question>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Model]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
+    <scale_id><![CDATA[1]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[74]]></qid>
-    <parent_qid><![CDATA[39]]></parent_qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <gid><![CDATA[9]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[RS422]]></title>
-    <question><![CDATA[RS422 - RS232 to RS422 Converter (replaced by RS485)]]></question>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[CPU]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[75]]></qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[9]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[RAM memory size]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[76]]></qid>
+    <parent_qid><![CDATA[17]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[9]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Hard Disk size]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[1]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[77]]></qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
+    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[5]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[cpNode]]></title>
+    <question><![CDATA[cpNode - Arduino based micro node (18 lines)]]></question>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[5]]></question_order>
     <language><![CDATA[en]]></language>
@@ -1232,83 +1505,55 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[75]]></qid>
-    <parent_qid><![CDATA[44]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[11]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[RSSD]]></title>
-    <question><![CDATA[RSSD]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[77]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Stall Motor]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
     <qid><![CDATA[78]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[How Many]]></question>
+    <title><![CDATA[IOX16]]></title>
+    <question><![CDATA[IOX16 - 16 line IO expander for cpNode]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <question_order><![CDATA[7]]></question_order>
     <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
+    <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[79]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
+    <parent_qid><![CDATA[1]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[6]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Twin Coil]]></question>
+    <title><![CDATA[IOX32]]></title>
+    <question><![CDATA[IOX32 - 32 line IO expander for cpNode]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
+    <question_order><![CDATA[8]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[80]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
+    <parent_qid><![CDATA[10]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
     <gid><![CDATA[5]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Servos]]></question>
+    <title><![CDATA[Dongle]]></title>
+    <question><![CDATA[Commercial USB-RS485 Dongle]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <question_order><![CDATA[8]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[81]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
+    <parent_qid><![CDATA[9]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[8]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Manual Throw]]></question>
+    <question><![CDATA[ODX4 (4 Position DCCOD Motherboard)]]></question>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
@@ -1317,128 +1562,16 @@
    </row>
    <row>
     <qid><![CDATA[82]]></qid>
-    <parent_qid><![CDATA[76]]></parent_qid>
+    <parent_qid><![CDATA[12]]></parent_qid>
     <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <gid><![CDATA[8]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Vendor / Type]]></question>
+    <title><![CDATA[RSMC]]></title>
+    <question><![CDATA[RSMC - 1 position remote SMC]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[84]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[PC]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <question_order><![CDATA[7]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[85]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Brand]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[86]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Apple]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[87]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Other]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[88]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Model]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[89]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[CPU]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[90]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[RAM memory size]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[91]]></qid>
-    <parent_qid><![CDATA[83]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[12]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[Hard Disk size]]></question>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[1]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
   </rows>
@@ -1452,7 +1585,7 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[39]]></qid>
+    <qid><![CDATA[10]]></qid>
     <attribute><![CDATA[min_answers]]></attribute>
     <value><![CDATA[1]]></value>
    </row>
@@ -1532,7 +1665,7 @@
     <usecookie><![CDATA[Y]]></usecookie>
     <allowregister><![CDATA[N]]></allowregister>
     <allowsave><![CDATA[Y]]></allowsave>
-    <autonumber_start><![CDATA[0]]></autonumber_start>
+    <autonumber_start><![CDATA[2]]></autonumber_start>
     <autoredirect><![CDATA[N]]></autoredirect>
     <allowprev><![CDATA[Y]]></allowprev>
     <printanswers><![CDATA[N]]></printanswers>
