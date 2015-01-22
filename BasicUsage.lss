@@ -17,7 +17,7 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Z]]></answer>
     <sortorder><![CDATA[1]]></sortorder>
@@ -26,7 +26,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[N]]></answer>
     <sortorder><![CDATA[2]]></sortorder>
@@ -35,7 +35,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[TT]]></answer>
     <sortorder><![CDATA[3]]></sortorder>
@@ -44,7 +44,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[HO]]></answer>
     <sortorder><![CDATA[4]]></sortorder>
@@ -53,7 +53,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A5]]></code>
     <answer><![CDATA[S]]></answer>
     <sortorder><![CDATA[5]]></sortorder>
@@ -62,7 +62,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <code><![CDATA[A6]]></code>
     <answer><![CDATA[O]]></answer>
     <sortorder><![CDATA[6]]></sortorder>
@@ -71,19 +71,19 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
-    <code><![CDATA[A7]]></code>
-    <answer><![CDATA[Garden]]></answer>
-    <sortorder><![CDATA[7]]></sortorder>
+    <qid><![CDATA[143]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[Other]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
     <assessment_value><![CDATA[1]]></assessment_value>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
-    <code><![CDATA[A8]]></code>
-    <answer><![CDATA[Other]]></answer>
-    <sortorder><![CDATA[8]]></sortorder>
+    <qid><![CDATA[143]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[Garden]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
     <assessment_value><![CDATA[1]]></assessment_value>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
@@ -102,40 +102,67 @@
   </fields>
   <rows>
    <row>
-    <cid><![CDATA[1]]></cid>
-    <qid><![CDATA[2]]></qid>
-    <cqid><![CDATA[10]]></cqid>
-    <cfieldname><![CDATA[189638X5X10SUSIC]]></cfieldname>
-    <method><![CDATA[!=]]></method>
+    <cid><![CDATA[34]]></cid>
+    <qid><![CDATA[139]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147cpNode]]></cfieldname>
+    <method><![CDATA[>]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[4]]></scenario>
    </row>
    <row>
-    <cid><![CDATA[2]]></cid>
-    <qid><![CDATA[2]]></qid>
-    <cqid><![CDATA[10]]></cqid>
-    <cfieldname><![CDATA[189638X5X10SMINI]]></cfieldname>
-    <method><![CDATA[!=]]></method>
-    <value><![CDATA[0]]></value>
-    <scenario><![CDATA[3]]></scenario>
-   </row>
-   <row>
-    <cid><![CDATA[3]]></cid>
-    <qid><![CDATA[2]]></qid>
-    <cqid><![CDATA[10]]></cqid>
-    <cfieldname><![CDATA[189638X5X10RS485]]></cfieldname>
-    <method><![CDATA[!=]]></method>
+    <cid><![CDATA[36]]></cid>
+    <qid><![CDATA[139]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147USIC]]></cfieldname>
+    <method><![CDATA[>]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[1]]></scenario>
    </row>
    <row>
-    <cid><![CDATA[4]]></cid>
-    <qid><![CDATA[2]]></qid>
-    <cqid><![CDATA[10]]></cqid>
-    <cfieldname><![CDATA[189638X5X10IOMBX]]></cfieldname>
-    <method><![CDATA[!=]]></method>
+    <cid><![CDATA[37]]></cid>
+    <qid><![CDATA[139]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147SUSIC]]></cfieldname>
+    <method><![CDATA[>]]></method>
     <value><![CDATA[0]]></value>
     <scenario><![CDATA[2]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[38]]></cid>
+    <qid><![CDATA[139]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147SMINI]]></cfieldname>
+    <method><![CDATA[>]]></method>
+    <value><![CDATA[0]]></value>
+    <scenario><![CDATA[3]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[47]]></cid>
+    <qid><![CDATA[221]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147USIC]]></cfieldname>
+    <method><![CDATA[>]]></method>
+    <value/>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[48]]></cid>
+    <qid><![CDATA[221]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147USIC]]></cfieldname>
+    <method><![CDATA[>]]></method>
+    <value><![CDATA[0]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[49]]></cid>
+    <qid><![CDATA[221]]></qid>
+    <cqid><![CDATA[147]]></cqid>
+    <cfieldname><![CDATA[299551X23X147SUSIC]]></cfieldname>
+    <method><![CDATA[>]]></method>
+    <value><![CDATA[0]]></value>
+    <scenario><![CDATA[1]]></scenario>
    </row>
   </rows>
  </conditions>
@@ -152,19 +179,9 @@
   </fields>
   <rows>
    <row>
-    <gid><![CDATA[2]]></gid>
-    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[15]]></gid>
+    <sid><![CDATA[299551]]></sid>
     <group_name><![CDATA[Software]]></group_name>
-    <group_order><![CDATA[5]]></group_order>
-    <description/>
-    <language><![CDATA[en]]></language>
-    <randomization_group/>
-    <grelevance/>
-   </row>
-   <row>
-    <gid><![CDATA[3]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Layout Control Devices]]></group_name>
     <group_order><![CDATA[7]]></group_order>
     <description/>
     <language><![CDATA[en]]></language>
@@ -172,49 +189,39 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[4]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Layout Information]]></group_name>
-    <group_order><![CDATA[6]]></group_order>
+    <gid><![CDATA[16]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Layout Control Devices]]></group_name>
+    <group_order><![CDATA[9]]></group_order>
     <description/>
     <language><![CDATA[en]]></language>
     <randomization_group/>
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[5]]></gid>
-    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[17]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Layout Information]]></group_name>
+    <group_order><![CDATA[8]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[18]]></gid>
+    <sid><![CDATA[299551]]></sid>
     <group_name><![CDATA[Interfaces]]></group_name>
-    <group_order><![CDATA[0]]></group_order>
+    <group_order><![CDATA[2]]></group_order>
     <description><![CDATA[C/MRI communications with a computer may be accomplished with a serial port or C/MRI specific interface cards.]]></description>
     <language><![CDATA[en]]></language>
     <randomization_group/>
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[6]]></gid>
-    <sid><![CDATA[189638]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <sid><![CDATA[299551]]></sid>
     <group_name><![CDATA[Input / Output]]></group_name>
-    <group_order><![CDATA[1]]></group_order>
-    <description/>
-    <language><![CDATA[en]]></language>
-    <randomization_group/>
-    <grelevance/>
-   </row>
-   <row>
-    <gid><![CDATA[7]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Cab / Block Control]]></group_name>
-    <group_order><![CDATA[2]]></group_order>
-    <description/>
-    <language><![CDATA[en]]></language>
-    <randomization_group/>
-    <grelevance/>
-   </row>
-   <row>
-    <gid><![CDATA[8]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Signaling and Detection]]></group_name>
     <group_order><![CDATA[3]]></group_order>
     <description/>
     <language><![CDATA[en]]></language>
@@ -222,11 +229,51 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[9]]></gid>
-    <sid><![CDATA[189638]]></sid>
-    <group_name><![CDATA[Host Computer]]></group_name>
+    <gid><![CDATA[20]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Cab / Block Control]]></group_name>
     <group_order><![CDATA[4]]></group_order>
     <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[21]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Signaling and Detection]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[22]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Host Computer]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[23]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[NodeTypes]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description><![CDATA[Control Nodes may interface to the host computer via a serial or parallel interface.]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[24]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <group_name><![CDATA[Host Connection Type]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[Multiple serial interface types have been employed to connect a host computer to C/MRI components.  Please indicate what forms of serial interface you use.]]></description>
     <language><![CDATA[en]]></language>
     <randomization_group/>
     <grelevance/>
@@ -254,36 +301,16 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[1]]></qid>
+    <qid><![CDATA[138]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[IO]]></title>
     <question><![CDATA[<p>
-	How many of each type of Input / Output card</p>
-<ul>
-	<li>
-		32Bit</li>
-</ul>
-<p style="margin-left: 40px;">
-	DIN32 - 32 input lines</p>
-<p style="margin-left: 40px;">
-	DOUT32 - 32 output lines</p>
-<p style="margin-left: 40px;">
-	TEST32 - Diagnostic card for all 32 output lines.</p>
-<ul>
-	<li>
-		24Bit</li>
-</ul>
-<p style="margin-left: 40px;">
-	DOUT24 - 24 output lines</p>
-<p style="margin-left: 40px;">
-	DIN24 - 24 input lines</p>
-<p style="margin-left: 40px;">
-	DOTEST - Digital output test card.  Attaches to the DOUT24 card for testing DOUT24 and DIN24 interface cards</p>
+	How many of each type of Input / Output card.</p>
 <p>
-	 </p>
+	Over time I/O cards have changed.  The original cards (CIN24 / COUT24 / OUTEST) based on the TI8255 PPI chip were superceded by the Digital I/O (DIN24 / DOUT24 / DOTEST) cards.  Further evolution resulted in the 32 line cards (DIN32 / DOUT32 / TEST32).</p>
 ]]></question>
     <preg/>
     <help/>
@@ -296,10 +323,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[2]]></qid>
+    <qid><![CDATA[139]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
     <type><![CDATA[M]]></type>
     <title><![CDATA[SerialSpeed]]></title>
     <question><![CDATA[Serial Line Speed (Bits Per Second BPS, if serial connected)]]></question>
@@ -307,17 +334,17 @@
     <help/>
     <other><![CDATA[Y]]></other>
     <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[1]]></question_order>
+    <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[(((is_empty(189638X5X10RS485.NAOK) || (189638X5X10RS485.NAOK != "0")))) or (((is_empty(189638X5X10IOMBX.NAOK) || (189638X5X10IOMBX.NAOK != "0")))) or (((is_empty(189638X5X10SMINI.NAOK) || (189638X5X10SMINI.NAOK != "0")))) or (((is_empty(189638X5X10SUSIC.NAOK) || (189638X5X10SUSIC.NAOK != "0"))))]]></relevance>
+    <relevance><![CDATA[((299551X23X147USIC.NAOK > "0")) or ((299551X23X147SUSIC.NAOK > "0")) or ((299551X23X147SMINI.NAOK > "0")) or ((299551X23X147cpNode.NAOK > "0"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[3]]></qid>
+    <qid><![CDATA[140]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[Software]]></title>
     <question><![CDATA[Control Software]]></question>
@@ -332,13 +359,13 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[4]]></qid>
+    <qid><![CDATA[141]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[17]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[layoutname]]></title>
-    <question><![CDATA[Name of your layout]]></question>
+    <question><![CDATA[What is the name of your layout]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -350,10 +377,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[5]]></qid>
+    <qid><![CDATA[142]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[17]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[LayoutOwner]]></title>
     <question><![CDATA[What is your name]]></question>
@@ -368,13 +395,13 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[6]]></qid>
+    <qid><![CDATA[143]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[17]]></gid>
     <type><![CDATA[!]]></type>
     <title><![CDATA[Scale]]></title>
-    <question/>
+    <question><![CDATA[In what scale to you model]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -386,13 +413,13 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[7]]></qid>
+    <qid><![CDATA[144]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[17]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[Roadname]]></title>
-    <question/>
+    <question><![CDATA[What railroad(s) do you model]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -404,13 +431,13 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[8]]></qid>
+    <qid><![CDATA[145]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[4]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[17]]></gid>
     <type><![CDATA[S]]></type>
     <title><![CDATA[Era]]></title>
-    <question/>
+    <question><![CDATA[What era do you model]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -422,10 +449,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[9]]></qid>
+    <qid><![CDATA[146]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[Occupancy]]></title>
     <question><![CDATA[How many occupancy detector cards and detector motherboards do you own?]]></question>
@@ -440,12 +467,12 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[10]]></qid>
+    <qid><![CDATA[147]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
     <type><![CDATA[K]]></type>
-    <title><![CDATA[SerialSolutions]]></title>
+    <title><![CDATA[SerialNodes]]></title>
     <question><![CDATA[Please indicate how many of each serial interface card you own.]]></question>
     <preg/>
     <help/>
@@ -458,28 +485,28 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[11]]></qid>
+    <qid><![CDATA[148]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
     <type><![CDATA[K]]></type>
-    <title><![CDATA[ParallelSolutions]]></title>
-    <question/>
+    <title><![CDATA[ParallelNodes]]></title>
+    <question><![CDATA[Parallel Nodes interface with the host computer via a card that plugs into the host computer followed by a parallel cable that connects to a I/O Motherboard (IOMB).  Please indicate how many of each device you own.]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[2]]></question_order>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[12]]></qid>
+    <qid><![CDATA[149]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[SwitchAndSignal]]></title>
     <question/>
@@ -494,10 +521,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[13]]></qid>
+    <qid><![CDATA[150]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[CabControl]]></title>
     <question/>
@@ -512,13 +539,13 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[14]]></qid>
+    <qid><![CDATA[151]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[Converter]]></title>
-    <question/>
+    <question><![CDATA[How many analog input (AD3) and analog output (DA3) interfaces do you own ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -530,10 +557,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[15]]></qid>
+    <qid><![CDATA[152]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[OS]]></title>
     <question/>
@@ -548,12 +575,30 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[16]]></qid>
+    <qid><![CDATA[153]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
     <type><![CDATA[;]]></type>
     <title><![CDATA[Turnouts]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[154]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
+    <title><![CDATA[Hardware]]></title>
     <question/>
     <preg/>
     <help/>
@@ -566,22 +611,22 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[17]]></qid>
+    <qid><![CDATA[221]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[;]]></type>
-    <title><![CDATA[Hardware]]></title>
-    <question/>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SerialInterface]]></title>
+    <question><![CDATA[What form of serial interface do you use.]]></question>
     <preg/>
     <help/>
-    <other><![CDATA[N]]></other>
+    <other><![CDATA[Y]]></other>
     <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[5]]></question_order>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[1]]></relevance>
+    <relevance><![CDATA[((299551X23X147SUSIC.NAOK > "0") and (299551X23X147USIC.NAOK > "" or 299551X23X147USIC.NAOK > "0"))]]></relevance>
    </row>
   </rows>
  </questions>
@@ -606,43 +651,13 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[18]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <qid><![CDATA[155]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
     <type><![CDATA[K]]></type>
     <title><![CDATA[DIN24]]></title>
-    <question><![CDATA[DIN24]]></question>
-    <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[19]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[K]]></type>
-    <title><![CDATA[DOUT24]]></title>
-    <question><![CDATA[DOUT24]]></question>
-    <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[20]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[K]]></type>
-    <title><![CDATA[DIN32]]></title>
-    <question><![CDATA[DIN32]]></question>
+    <question><![CDATA[DIN24 - 24 digital inputs]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
@@ -651,13 +666,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[21]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
+    <qid><![CDATA[156]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
     <type><![CDATA[K]]></type>
-    <title><![CDATA[DOUT32]]></title>
-    <question><![CDATA[DOUT32]]></question>
+    <title><![CDATA[DOUT24]]></title>
+    <question><![CDATA[DOUT24 - 24 digital outputs]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
@@ -666,10 +681,40 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[22]]></qid>
-    <parent_qid><![CDATA[3]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <qid><![CDATA[157]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[DIN32]]></title>
+    <question><![CDATA[DIN32 - 32 digital inputs]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[158]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[DOUT32]]></title>
+    <question><![CDATA[DOUT32 - 32 digital outputs]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[159]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[SW001]]></title>
     <question><![CDATA[Bruce Chubb - QB 4.5]]></question>
@@ -681,10 +726,10 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[23]]></qid>
-    <parent_qid><![CDATA[3]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <qid><![CDATA[160]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[SW002]]></title>
     <question><![CDATA[Bruce Chubb - Visual Basic]]></question>
@@ -696,10 +741,10 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[24]]></qid>
-    <parent_qid><![CDATA[3]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <qid><![CDATA[161]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[SW003]]></title>
     <question><![CDATA[Bruce Chubb - VB.net]]></question>
@@ -711,10 +756,10 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[25]]></qid>
-    <parent_qid><![CDATA[3]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <qid><![CDATA[162]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[SW004]]></title>
     <question><![CDATA[Custom Code - What Language]]></question>
@@ -726,10 +771,10 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[26]]></qid>
-    <parent_qid><![CDATA[3]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[2]]></gid>
+    <qid><![CDATA[163]]></qid>
+    <parent_qid><![CDATA[140]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[15]]></gid>
     <type><![CDATA[P]]></type>
     <title><![CDATA[SW005]]></title>
     <question><![CDATA[JMRI - What version]]></question>
@@ -741,11 +786,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[27]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[164]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[115200]]></question>
     <other><![CDATA[N]]></other>
@@ -756,11 +801,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[28]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[165]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[57600]]></question>
     <other><![CDATA[N]]></other>
@@ -771,11 +816,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[29]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[166]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[38400]]></question>
     <other><![CDATA[N]]></other>
@@ -786,11 +831,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[30]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[167]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ004]]></title>
     <question><![CDATA[28800]]></question>
     <other><![CDATA[N]]></other>
@@ -801,11 +846,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[31]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[168]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ005]]></title>
     <question><![CDATA[19200]]></question>
     <other><![CDATA[N]]></other>
@@ -816,11 +861,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[32]]></qid>
-    <parent_qid><![CDATA[2]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[169]]></qid>
+    <parent_qid><![CDATA[139]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[18]]></gid>
+    <type><![CDATA[M]]></type>
     <title><![CDATA[SQ006]]></title>
     <question><![CDATA[9600]]></question>
     <other><![CDATA[N]]></other>
@@ -831,13 +876,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[33]]></qid>
-    <parent_qid><![CDATA[9]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[170]]></qid>
+    <parent_qid><![CDATA[146]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[OD]]></question>
+    <question><![CDATA[OD - DC occupancy detector]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -846,13 +891,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[34]]></qid>
-    <parent_qid><![CDATA[9]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[171]]></qid>
+    <parent_qid><![CDATA[146]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[DCCOD]]></question>
+    <question><![CDATA[DCCOD - DCC compatible occupancy detector]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
@@ -861,13 +906,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[35]]></qid>
-    <parent_qid><![CDATA[9]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[172]]></qid>
+    <parent_qid><![CDATA[146]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[ODMB]]></question>
+    <question><![CDATA[ODMB - occupancy detector motherboard]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
@@ -876,28 +921,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[36]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[173]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[DOTest]]></title>
-    <question><![CDATA[DOTEST]]></question>
-    <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[en]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[37]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[Test32]]></title>
-    <question><![CDATA[TEST32]]></question>
+    <question><![CDATA[DOTEST - test card for DIN / DOUT]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[6]]></question_order>
@@ -906,13 +936,28 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[38]]></qid>
-    <parent_qid><![CDATA[11]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[174]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[Test32]]></title>
+    <question><![CDATA[TEST32 - test card for DIN32 / DOUT32]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[175]]></qid>
+    <parent_qid><![CDATA[148]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[IBEC]]></title>
-    <question><![CDATA[IBEC]]></question>
+    <question><![CDATA[IBEC - Internal Bus Extender Card (superseded by the UBEC)]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -921,28 +966,28 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[39]]></qid>
-    <parent_qid><![CDATA[11]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[176]]></qid>
+    <parent_qid><![CDATA[148]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[IOMB]]></title>
-    <question><![CDATA[IOMB]]></question>
+    <question><![CDATA[IOMB - I/O Motherboard]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[2]]></question_order>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[40]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[177]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SM1]]></title>
-    <question><![CDATA[SM1]]></question>
+    <question><![CDATA[SM1 - Dual coil switch machine driver, dual input lines]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -951,13 +996,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[41]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[178]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SM2]]></title>
-    <question><![CDATA[SM2]]></question>
+    <question><![CDATA[SM2 - Dual coil switch machine driver, single input line]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
@@ -966,13 +1011,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[42]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[179]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SMC12]]></title>
-    <question><![CDATA[SMC12]]></question>
+    <question><![CDATA[SMC12 - Switch Motor Driver, 12 stall motors per card]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
@@ -981,13 +1026,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[43]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[180]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SMC]]></title>
-    <question><![CDATA[SMC]]></question>
+    <question><![CDATA[SMC - discontinued - replaced by SMC12]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
@@ -996,13 +1041,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[44]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[181]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SSD]]></title>
-    <question><![CDATA[SSD]]></question>
+    <question><![CDATA[SSD - Searchlight Signal Driver, 12 2-lead or 3 3-lead 3-color LEDs]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
@@ -1011,13 +1056,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[45]]></qid>
-    <parent_qid><![CDATA[13]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[182]]></qid>
+    <parent_qid><![CDATA[150]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[CRC]]></title>
-    <question><![CDATA[CRC]]></question>
+    <question><![CDATA[CRC - Cab Relay Card - select between 7 cabs]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -1026,13 +1071,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[46]]></qid>
-    <parent_qid><![CDATA[13]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[183]]></qid>
+    <parent_qid><![CDATA[150]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[CMB]]></title>
-    <question><![CDATA[CMB]]></question>
+    <question><![CDATA[CMB - Cab Motherboard - holds up to 12 CRC cards]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
@@ -1041,13 +1086,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[47]]></qid>
-    <parent_qid><![CDATA[13]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[184]]></qid>
+    <parent_qid><![CDATA[150]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[CDC]]></title>
-    <question><![CDATA[CDC]]></question>
+    <question><![CDATA[CDC - Cab Display Card - digital indicator of assigned cab, occupancy and direction]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
@@ -1056,13 +1101,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[48]]></qid>
-    <parent_qid><![CDATA[13]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[185]]></qid>
+    <parent_qid><![CDATA[150]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[CCT4]]></title>
-    <question><![CDATA[CCT4]]></question>
+    <question><![CDATA[CCT4 - Computer Controlled Throttle - 4 throttles per card]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
@@ -1071,13 +1116,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[49]]></qid>
-    <parent_qid><![CDATA[13]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[7]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[186]]></qid>
+    <parent_qid><![CDATA[150]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[20]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[PPC]]></title>
-    <question><![CDATA[PPC]]></question>
+    <question><![CDATA[PPC - Pulse Power Card - Adds pulse power capability to CCT4]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
@@ -1086,13 +1131,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[50]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[187]]></qid>
+    <parent_qid><![CDATA[151]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[DAC3]]></title>
-    <question><![CDATA[DAC3]]></question>
+    <question><![CDATA[DAC3 - Digital to Analog Converter, 3 channels]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
@@ -1101,13 +1146,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[51]]></qid>
-    <parent_qid><![CDATA[14]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[188]]></qid>
+    <parent_qid><![CDATA[151]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[ADC3]]></title>
-    <question><![CDATA[ADC3]]></question>
+    <question><![CDATA[ADC3 - Analog to Digital Converter, 3 channels]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
@@ -1116,11 +1161,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[52]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[189]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SUSIC]]></title>
     <question><![CDATA[SUSIC - Super Universal Serial Interface Card]]></question>
     <other><![CDATA[N]]></other>
@@ -1131,11 +1176,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[53]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[190]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[SMINI]]></title>
     <question><![CDATA[SMINI - Super Mini-node]]></question>
     <other><![CDATA[N]]></other>
@@ -1146,11 +1191,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[54]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[191]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[IOMBX]]></title>
     <question><![CDATA[IOMBX - Expanded I/O Motherboard (replaces IOMB)]]></question>
     <other><![CDATA[N]]></other>
@@ -1161,13 +1206,13 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[55]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[192]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[RS485]]></title>
-    <question><![CDATA[RS485 - RS232 to RS485 Converter]]></question>
+    <question><![CDATA[RS485 - RS232 to RS485 Converter (replaces RS422)]]></question>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[7]]></question_order>
@@ -1176,11 +1221,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[56]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[193]]></qid>
+    <parent_qid><![CDATA[152]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[P]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[DOS]]></question>
     <other><![CDATA[N]]></other>
@@ -1191,11 +1236,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[57]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[194]]></qid>
+    <parent_qid><![CDATA[152]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[P]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Windows]]></question>
     <other><![CDATA[N]]></other>
@@ -1206,11 +1251,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[58]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[195]]></qid>
+    <parent_qid><![CDATA[152]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[P]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Apple]]></question>
     <other><![CDATA[N]]></other>
@@ -1221,11 +1266,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[59]]></qid>
-    <parent_qid><![CDATA[15]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[196]]></qid>
+    <parent_qid><![CDATA[152]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[P]]></type>
     <title><![CDATA[SQ004]]></title>
     <question><![CDATA[Unix / Linux]]></question>
     <other><![CDATA[N]]></other>
@@ -1236,11 +1281,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[60]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[197]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[USIC]]></title>
     <question><![CDATA[USIC - Universal Serial Interface Card (replaced by SUSIC)]]></question>
     <other><![CDATA[N]]></other>
@@ -1251,11 +1296,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[61]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[198]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[RS422]]></title>
     <question><![CDATA[RS422 - RS232 to RS422 Converter (replaced by RS485)]]></question>
     <other><![CDATA[N]]></other>
@@ -1266,11 +1311,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[62]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[199]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[RSSD]]></title>
     <question><![CDATA[RSSD]]></question>
     <other><![CDATA[N]]></other>
@@ -1281,11 +1326,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[63]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[200]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Stall Motor]]></question>
     <other><![CDATA[N]]></other>
@@ -1296,11 +1341,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[64]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[201]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[How Many]]></question>
     <other><![CDATA[N]]></other>
@@ -1311,11 +1356,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[65]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[202]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Twin Coil]]></question>
     <other><![CDATA[N]]></other>
@@ -1326,11 +1371,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[66]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[203]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Servos]]></question>
     <other><![CDATA[N]]></other>
@@ -1341,11 +1386,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[67]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[204]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ004]]></title>
     <question><![CDATA[Manual Throw]]></question>
     <other><![CDATA[N]]></other>
@@ -1356,11 +1401,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[68]]></qid>
-    <parent_qid><![CDATA[16]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[3]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[205]]></qid>
+    <parent_qid><![CDATA[153]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[16]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Vendor / Type]]></question>
     <other><![CDATA[N]]></other>
@@ -1371,11 +1416,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[69]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[206]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[PC]]></question>
     <other><![CDATA[N]]></other>
@@ -1386,11 +1431,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[70]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[207]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Brand]]></question>
     <other><![CDATA[N]]></other>
@@ -1401,11 +1446,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[71]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[208]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Apple]]></question>
     <other><![CDATA[N]]></other>
@@ -1416,11 +1461,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[72]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[209]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Other]]></question>
     <other><![CDATA[N]]></other>
@@ -1431,11 +1476,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[73]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[210]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Model]]></question>
     <other><![CDATA[N]]></other>
@@ -1446,11 +1491,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[74]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[211]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[CPU]]></question>
     <other><![CDATA[N]]></other>
@@ -1461,11 +1506,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[75]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[212]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ004]]></title>
     <question><![CDATA[RAM memory size]]></question>
     <other><![CDATA[N]]></other>
@@ -1476,11 +1521,11 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[76]]></qid>
-    <parent_qid><![CDATA[17]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[9]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[213]]></qid>
+    <parent_qid><![CDATA[154]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[22]]></gid>
+    <type><![CDATA[;]]></type>
     <title><![CDATA[SQ005]]></title>
     <question><![CDATA[Hard Disk size]]></question>
     <other><![CDATA[N]]></other>
@@ -1491,69 +1536,159 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[77]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[214]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[cpNode]]></title>
     <question><![CDATA[cpNode - Arduino based micro node (18 lines)]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[78]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
+    <qid><![CDATA[215]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
     <title><![CDATA[IOX16]]></title>
     <question><![CDATA[IOX16 - 16 line IO expander for cpNode]]></question>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[216]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[IOX32]]></title>
+    <question><![CDATA[IOX32 - 32 line IO expander for cpNode]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[11]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[217]]></qid>
+    <parent_qid><![CDATA[147]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[Dongle]]></title>
+    <question><![CDATA[Commercial USB-RS485 Dongle]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[218]]></qid>
+    <parent_qid><![CDATA[146]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[ODX4 (4 Position DCCOD Motherboard)]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[219]]></qid>
+    <parent_qid><![CDATA[149]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[21]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[RSMC]]></title>
+    <question><![CDATA[RSMC - 1 position remote SMC]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[7]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[79]]></qid>
-    <parent_qid><![CDATA[1]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[6]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[IOX32]]></title>
-    <question><![CDATA[IOX32 - 32 line IO expander for cpNode]]></question>
+    <qid><![CDATA[220]]></qid>
+    <parent_qid><![CDATA[148]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[23]]></gid>
+    <type><![CDATA[K]]></type>
+    <title><![CDATA[UBEC]]></title>
+    <question><![CDATA[UBEC - Universal Bus Extender Card]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[8]]></question_order>
+    <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[80]]></qid>
-    <parent_qid><![CDATA[10]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[5]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[Dongle]]></title>
-    <question><![CDATA[Commercial USB-RS485 Dongle]]></question>
+    <qid><![CDATA[222]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[RS232]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[8]]></question_order>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[81]]></qid>
-    <parent_qid><![CDATA[9]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[ODX4 (4 Position DCCOD Motherboard)]]></question>
+    <qid><![CDATA[223]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[USB to RS232]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[224]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[USB to RS422]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[225]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[USB to RS485]]></question>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[en]]></language>
@@ -1561,36 +1696,77 @@
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[82]]></qid>
-    <parent_qid><![CDATA[12]]></parent_qid>
-    <sid><![CDATA[189638]]></sid>
-    <gid><![CDATA[8]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[RSMC]]></title>
-    <question><![CDATA[RSMC - 1 position remote SMC]]></question>
+    <qid><![CDATA[226]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[RS232 to Chubb RS422]]></question>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[7]]></question_order>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[227]]></qid>
+    <parent_qid><![CDATA[221]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[24]]></gid>
+    <type><![CDATA[P]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[RS232 to Chubb RS485]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[228]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[CIN24]]></title>
+    <question><![CDATA[CIN24 - Original design (8255 based) 24 input lines - replaced by DIN24 ]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[229]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[COUT24]]></title>
+    <question><![CDATA[COUT24 - Original design (8255 based) 24 outut lines - replaced by DOUT24 ]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[230]]></qid>
+    <parent_qid><![CDATA[138]]></parent_qid>
+    <sid><![CDATA[299551]]></sid>
+    <gid><![CDATA[19]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[OUTEST]]></title>
+    <question><![CDATA[OUTEST - test card for original design CIN24 / COUT24 - replaced by DOTEST]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[en]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
   </rows>
  </subquestions>
- <question_attributes>
-  <fields>
-   <fieldname>qid</fieldname>
-   <fieldname>attribute</fieldname>
-   <fieldname>value</fieldname>
-   <fieldname>language</fieldname>
-  </fields>
-  <rows>
-   <row>
-    <qid><![CDATA[10]]></qid>
-    <attribute><![CDATA[min_answers]]></attribute>
-    <value><![CDATA[1]]></value>
-   </row>
-  </rows>
- </question_attributes>
  <surveys>
   <fields>
    <fieldname>sid</fieldname>
@@ -1651,7 +1827,7 @@
   </fields>
   <rows>
    <row>
-    <sid><![CDATA[189638]]></sid>
+    <sid><![CDATA[299551]]></sid>
     <admin><![CDATA[Administrator]]></admin>
     <adminemail><![CDATA[kphannan@gmail.com]]></adminemail>
     <anonymized><![CDATA[N]]></anonymized>
@@ -1691,7 +1867,7 @@
     <bounceprocessing><![CDATA[N]]></bounceprocessing>
     <showwelcome><![CDATA[Y]]></showwelcome>
     <showprogress><![CDATA[Y]]></showprogress>
-    <questionindex><![CDATA[2]]></questionindex>
+    <questionindex><![CDATA[0]]></questionindex>
     <navigationdelay><![CDATA[0]]></navigationdelay>
     <nokeyboard><![CDATA[N]]></nokeyboard>
     <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
@@ -1729,7 +1905,7 @@
   </fields>
   <rows>
    <row>
-    <surveyls_survey_id><![CDATA[189638]]></surveyls_survey_id>
+    <surveyls_survey_id><![CDATA[299551]]></surveyls_survey_id>
     <surveyls_language><![CDATA[en]]></surveyls_language>
     <surveyls_title><![CDATA[C/MRI User Survey]]></surveyls_title>
     <surveyls_description><![CDATA[C/MRI user survey description.]]></surveyls_description>
